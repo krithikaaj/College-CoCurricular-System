@@ -1,0 +1,21 @@
+
+  .section{
+
+    background: url(VEC_photo.png) no-repeat;
+    background-size: cover;
+    height: calc(100vh - 80px);
+  }
+  
+ form{
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 100vh;
+overflow: hidden;
+margin: 1;
+background:rgb(245, 211, 148);
+    background-size: cover;
+    height: calc(100vh - 80px);
+  
+  }
